@@ -32,5 +32,14 @@
     "presets": [
       "env"
     ]
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "2.4.2",
+    "@types/cookie-parser": "1.4.2",
+    "@types/dotenv": "6.1.1",
+    "@types/graphql": "0.13.2",
+    "@types/jsonwebtoken": "8.3.0",
+    "@types/nodemailer": "4.6.8",
+    "@types/stripe": "6.32.13"
   }
 }
